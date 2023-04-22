@@ -1,2 +1,2 @@
-# chest_xray
+# Descrption
 Using Convolutional Neural Network to Diagnose Bacterial and Viral Pneumonia via Pediatric Chest X-ray
